@@ -84,9 +84,10 @@ const Header2 = () => {
             transition: 1s;
           }
           .header-txt p:nth-of-type(1) {
-            width: 35px;
-            height: 35px;
+            width: 36px;
+            height: 36px;
             font-size: 36px;
+            line-height: 25px;
             background-color: #7bed9f;
           }
           .header-txt p:nth-of-type(3) {
