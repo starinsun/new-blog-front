@@ -87,7 +87,7 @@ const Header2 = () => {
             width: 36px;
             height: 36px;
             font-size: 36px;
-            line-height: 25px;
+            line-height: 27px;
             background-color: #7bed9f;
           }
           .header-txt p:nth-of-type(3) {

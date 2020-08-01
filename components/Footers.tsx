@@ -4,8 +4,8 @@ const Footer = () => (
   <div className='footer'>
     <div className='insi'>
       Power By ReactHooks, Antd, Next.js, MongoDb, TypeScript
-      <a href='https://api.asenwang.top/'>Nest.js</a>,
-      <a href='https://admin.asenwang.top'>React-Router</a>
+      <a href='https://blog.api.eswang.icu/'>Nest.js</a>,
+      <a href='http://admin.eswang.icu'>React-Router</a>
     </div>
     <span>ESWang</span>
     <a className='gx' href='http://www.beian.miit.gov.cn'>
